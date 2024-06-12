@@ -2,6 +2,7 @@
 
 # Vasco
 
+* comando git push 2
 
 
 
